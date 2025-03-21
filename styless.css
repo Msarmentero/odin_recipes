@@ -1,0 +1,37 @@
+body{
+    background-color: rgb(105, 98, 98);
+    font-family:    Arial, Helvetica, sans-serif;
+}
+
+.title,
+.food-subtitle,
+.navigation-button{
+    color: hsl(0, 2%, 71%);
+    font-size: 30px;
+}
+
+.big-title,
+.title,
+.food-subtitle{
+font-weight: 700;
+}
+
+.big-title{
+    color: hsl(0, 22%, 65%);
+    font-size: 35px;
+}
+
+li, p{
+    font-size: 25px;
+    max-width: 750px;
+    word-wrap: break-word;
+}
+
+img{
+    height: auto;
+    width: 400px;
+}
+
+.navigation-button{
+    font-size: 22px;
+}
